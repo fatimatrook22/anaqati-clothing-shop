@@ -1,0 +1,2 @@
+# Documentation
+In the documentation, we aim to highlight what we've done so far, even though it's not complete. The goal is to provide an overview of our work and offer some insight into what an expert does, as well as what will be accepted. However, we are writing this documentation to inform people about what is expected. Since we are new to open-source projects, our documentation isn't fully finished and will be updated by a moderator.
