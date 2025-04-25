@@ -113,3 +113,12 @@ As we continue to enhance and expand our project, we invite you to join us in ma
 Stay connected, and let's make a difference in the world of fashion! Happy coding! 🌟
 
 ---
+## 🔧 How to Contribute
+
+We welcome contributions from everyone! To contribute:
+
+1. **Fork** the repository  
+2. **Create a new branch** for your feature or fix  
+3. **Commit** your changes with clear messages  
+4. **Push** to your fork and submit a **pull request**  
+5. Make sure your code follows our [Developer Guidelines](./Developer%20Guidelines.md)
