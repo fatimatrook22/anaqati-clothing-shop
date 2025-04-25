@@ -1,4 +1,4 @@
-# Developer Guidlines
+# Developer Guidelines
 Coding Guidelines for Developers
 
 This living document provides useful advice for software developers who either create or contribute to the system. The recommendations cover:
