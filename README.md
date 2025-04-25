@@ -72,7 +72,7 @@ Need help? Reach out to us!
 
 ---
 
-## ❓Frequently Asked Questions
+## ❓FAQ
 
 **Q: What is Anaqati Clothing Shop?**  
 A: Anaqati is a free, open-source clothing shop application.
