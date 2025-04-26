@@ -69,7 +69,7 @@ Need help? Reach out to us!
 - 💬 WhatsApp: +973-1234-5678  
 - 📣 Instagram: [@anaqati_shop](https://instagram.com/anaqati_shop)  
 - 🧵 Community Forum: [forum.anaqati.com](https://forum.anaqati.com)  
-
+- 📱 TikTok: @anaqati_shop
 ---
 
 ## ❓FAQ
