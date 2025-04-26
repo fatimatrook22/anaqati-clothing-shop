@@ -69,7 +69,7 @@ Need help? Reach out to us!
 - 💬 WhatsApp: +973-1234-5678  
 - 📣 Instagram: [@anaqati_shop](https://instagram.com/anaqati_shop)  
 - 🧵 Community Forum: [forum.anaqati.com](https://forum.anaqati.com)  
-
+- 📱 TikTok: @anaqati_shop
 ---
 
 ## ❓FAQ
@@ -127,5 +127,7 @@ We welcome contributions from everyone! To contribute:
 We’re working on a Terms and Conditions document to keep things clear and fair for both users and contributors.
 The document will outline how to use the Anaqati Clothing Shop and include important details.
 Stay tuned for the update!
+
+✨ Anaqati welcomes all contributors to join and improve the project! ✨
 
 
