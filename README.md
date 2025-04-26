@@ -122,3 +122,10 @@ We welcome contributions from everyone! To contribute:
 3. **Commit** your changes with clear messages  
 4. **Push** to your fork and submit a **pull request**  
 5. Make sure your code follows our [Developer Guidelines](./Developer%20Guidelines.md)
+
+📑 Terms and Conditions (Coming Soon)
+We’re working on a Terms and Conditions document to keep things clear and fair for both users and contributors.
+The document will outline how to use the Anaqati Clothing Shop and include important details.
+Stay tuned for the update!
+
+
