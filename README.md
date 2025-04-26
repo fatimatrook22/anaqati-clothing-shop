@@ -128,4 +128,6 @@ We’re working on a Terms and Conditions document to keep things clear and fair
 The document will outline how to use the Anaqati Clothing Shop and include important details.
 Stay tuned for the update!
 
+✨ Anaqati welcomes all contributors to join and improve the project! ✨
+
 
